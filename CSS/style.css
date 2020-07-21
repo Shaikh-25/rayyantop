@@ -1,0 +1,125 @@
+body{
+margin: 0;
+  background-color:white;
+  text-align: center;
+font-family: 'MuseoModerno', cursive;
+}
+
+h1
+{
+
+margin-top: 0;
+width: 20%;
+line-height: 2;
+color: #66BFBF;
+font-size: 30px;
+  font-family: 'Merriweather', serif;
+
+margin: 0 auto 0 auto
+
+
+
+
+}
+h2
+{
+
+  color: #66BFBF;
+font-family: 'MuseoModerno', cursive;
+font-weight: normal;
+}
+h3
+{
+  color: #11999E;
+font-family: 'MuseoModerno', cursive;
+}
+.top-container
+{
+
+  background-color:powderblue;
+  position: relative;
+  padding-top: 100px;
+
+
+}
+.middle-container
+{
+
+
+
+
+
+
+
+
+}
+.bottom-container
+{
+
+background-color:powderblue;
+height: 20%;
+padding-top: 40px;
+margin: 0;
+
+
+
+}
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left ;
+  line-height: 2;
+
+
+}
+.top-cloud
+{
+left: 200px;
+top: 10px;
+  position: relative;
+}
+.bottom-cloud
+{
+  position: absolute;
+}
+.code-image{
+width:  25%;
+float: left;
+margin-right: 30px;
+}
+.read-image
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-width: 5px;
+  width:5%;
+  border-color:grey;
+}
+.year
+{
+  margin-bottom: 0;
+  padding-bottom: 40px;
+}
+a:link, a:visited {
+  background-color: powderblue;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 20px;
+  border-radius: 12px;
+
+}
+
+a:hover, a:active {
+  background-color: white;
+    border-color: black;
+}
